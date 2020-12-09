@@ -1,0 +1,54 @@
+.dlm-login-container {
+    display: flex;
+    justify-content: center;
+    /* margin: 2.5rem 17rem; */
+    align-items: center;
+    width: 100%;
+}
+
+.dlm-login {
+    text-align: center;
+    text-align: -moz-center;
+    text-align: -webkit-center;
+}
+
+.dlm-login form .form-group {
+    text-align: center;
+    text-align: -moz-center;
+    text-align: -webkit-center;
+    margin: 2rem 0;
+}
+
+.dlm-login form .form-group input {
+    width: 29rem;
+    height: 2.75rem;
+    border-radius: 1.5rem;
+    -webkit-box-shadow:inset 0 0 10px #AEAEAE;
+    -moz-box-shadow:inset 0 0 10px #AEAEAE;
+    box-shadow: inset 1px 1px 1px 0 #AEAEAE;
+}
+
+.dlm-login-logo {
+    width: 76%;
+}
+
+.dlm-login-button {
+    width: 29rem;
+    height: 3rem;
+    border-radius: 1.5rem;
+}
+
+.dlm-login-help {
+    margin: 2.5rem 0;
+}
+
+.dlm-login-help span {
+    height: 19px;
+    width: 388px;
+    color: #1890FF;
+    font-family: Lato;
+    font-size: 16px;
+    letter-spacing: 0.21px;
+    line-height: 19px;
+    margin: 0 0.5rem;
+  }
