@@ -1,0 +1,22 @@
+[
+    {
+        "id": "item2",
+        "value": "Smithy, Steven",
+        "type": "member"
+    },
+    {
+        "id": "item3",
+        "value": "SPA - Collaboration Group",
+        "type": "distribution"
+    },
+    {
+        "id": "item4",
+        "value": "SPA - Web Solutions Support",
+        "type": "distribution"
+    },
+    {
+        "id": "item5",
+        "value": "SPA - IT UCC Collaboration Assistance",
+        "type": "distribution"
+    }
+]

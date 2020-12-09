@@ -1,0 +1,31 @@
+{
+  "Home": {
+    "js": "/Home.80258fa11789071d1683.bundle.chunk.js"
+  },
+  "Login": {
+    "js": "/Login.e1e4aa17a8dd8b14eab7.bundle.chunk.js"
+  },
+  "app": {
+    "js": "/app.bundle.js"
+  },
+  "billPayApp": {
+    "js": "/billPayApp.6322e28a76e0d07aaee2.bundle.chunk.js"
+  },
+  "vendors": {
+    "js": "/vendors.7785995ec4e5cbfdf888.bundle.chunk.js"
+  },
+  "": {
+    "html": "/./index.html",
+    "png": [
+      "/0c3be1dfd28ee786e045ece65d05b514.png",
+      "/1578007361c825bef269b4271abb0e7b.png",
+      "/15885f12d678cb3f674aa1c69be20739.png",
+      "/67ef9d486d6d2224e5dcfba7a23a3f6d.png",
+      "/7087331ea2c4de3eb4a91858bffd2399.png",
+      "/89fb4ef222e8fc32a8c1f2e8e6a5aa8d.png",
+      "/b88b0efffc46c239555598b6e92466f9.png",
+      "/c42e7176f0e0bb45e70b2d5d90a6763d.png"
+    ],
+    "jpg": "/1a476d3b907a46cd228052dd61bc2b19.jpg"
+  }
+}

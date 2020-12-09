@@ -1,0 +1,58 @@
+[
+    {
+        "firstName": "Alex",
+        "lastName":"Jacobs",
+        "GPID": "4560988",
+        "email": "Alex@gmail.com",
+        "action": "remove"
+    },
+    {
+        "firstName": "Rahul",
+        "lastName":"Dravid",
+        "GPID": "4560989",
+        "email": "Rahul@gmail.com",
+        "action": "remove"
+    },
+    {
+        "firstName": "Sachin",
+        "lastName":"Tendulker",
+        "GPID": "4560991",
+        "email": "Sachin@gmail.com",
+        "action": "remove"
+    },
+    {
+        "firstName": "Mahendra",
+        "lastName":"Dhoni",
+        "GPID": "4560992",
+        "email": "Mahendra@gmail.com",
+        "action": "remove"
+    },
+    {
+        "firstName": "Ajay",
+        "lastName":"Jadeja",
+        "GPID": "4560993",
+        "email": "Ajay@gmail.com",
+        "action": "remove"
+    },
+    {
+        "firstName": "Ravichndran",
+        "lastName":"Ashwin",
+        "GPID": "4560994",
+        "email": "Ravichndran@gmail.com",
+        "action": "remove"
+    },
+    {
+        "firstName": "Kapil",
+        "lastName":"Dev",
+        "GPID": "4560995",
+        "email": "Kapil@gmail.com",
+        "action": "remove"
+    },
+    {
+        "firstName": "Tom",
+        "lastName":"Latham",
+        "GPID": "4560996",
+        "email": "Tom@gmail.com",
+        "action": "remove"
+    }    
+]
